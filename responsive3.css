@@ -1,0 +1,19 @@
+header::before{
+    /* background: url('https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg') no-repeat center center/cover;
+    content:"";
+    position: absolute;
+    top: 75px;
+    left: 0; */
+    width: 132%;
+    height: 128%;
+    /* z-index: -1; */
+}
+.h-primary{
+    margin-top: 380px;
+}
+#contact {
+    display: contents;
+}
+#password {
+    width: 88px;
+}

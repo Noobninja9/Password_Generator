@@ -1,0 +1,28 @@
+header::before{
+    /* background: url('https://www.simplilearn.com/ice9/free_resources_article_thumb/what_is_image_Processing.jpg') no-repeat center center/cover;
+    content:"";
+    position: absolute;
+    top: 75px;
+    left: 0; */
+    width: 132%;
+    height: 130%;
+    /* z-index: -1; */
+}
+.navbar::before{
+    /* content: "";
+    background-color: black;
+    position: absolute;
+    height: 100%; */
+    width: 132%;
+    /* z-index: -1; */
+    
+}
+.h-primary{
+    margin-top: 394px;
+}
+#contact .boxer{
+    padding-left: 9px;
+}
+#password {
+    width: 179px;
+}
